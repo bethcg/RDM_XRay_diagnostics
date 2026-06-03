@@ -1,0 +1,12 @@
+# --- Core packages & visualization ---
+pandas
+openpyxl
+plotly
+matplotlib
+seaborn
+
+# --- Computer vision ---
+torch
+torchvision
+pillow
+
